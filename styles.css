@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+body{
+	align:center;
+}
+form{
+	padding: 5px;
+	text-align:center;
+	border: 1px solid;
+}
+#submit{
+	margin-left:50%;
+	margin-right:50%
+}
